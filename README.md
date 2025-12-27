@@ -26,7 +26,7 @@ This repository contains the source code for **SA-CRNN**, an end-to-end deep lea
 ### Installation
 
 ```bash
-git clone [https://github.com/zouyaolin/Adaptive-VMD-SA-CRNN.git](https://github.com/zouyaolin/Adaptive-VMD-SA-CRNN.git)
+git clone https://github.com/jiqjijiajdi/Adaptive-VMD-SA-CRNN.git
 cd Adaptive-VMD-SA-CRNN
 pip install -r requirements.txt
 ```
@@ -75,5 +75,6 @@ If you find this code useful, please cite our paper:
 
 This project is licensed under the MIT License.
 Copyright (c) 2025 Yaolin Zou, Xiongfei Tao, Kenan Xiao, Jinkang Shi.
+
 
 
